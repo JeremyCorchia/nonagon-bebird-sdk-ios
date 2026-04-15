@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "NonagonBeBirdSDK",
             url: "https://github.com/JeremyCorchia/nonagon-bebird-sdk-ios/releases/download/\(version)/NonagonBeBirdSDK.xcframework.zip",
-            checksum: "9befd0964decbc0683db90afd53ef7dc7d4e968e714653315ed1831b9dd5c3b6"
+            checksum: "435319329b4925b55ac8b31e01370e91c9ee90176e29a700d98e7ea734b497fb"
         ),
     ]
 )
