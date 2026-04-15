@@ -2,7 +2,7 @@
 
 import PackageDescription
 
-let version = "1.0.3"
+let version = "1.0.4"
 
 let package = Package(
     name: "NonagonBeBirdSDK",
@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "NonagonBeBirdSDK",
             url: "https://github.com/JeremyCorchia/nonagon-bebird-sdk-ios/releases/download/\(version)/NonagonBeBirdSDK.xcframework.zip",
-            checksum: "c5cb0c8494f8649fbec0487d0ae39d461bde20ebc19bab0a5b00390ba1f9571f"
+            checksum: "ef471a9c7627d615b53a212cc3e520523ca32789fda3d2c5ee87f1adbcb05b25"
         ),
     ]
 )
